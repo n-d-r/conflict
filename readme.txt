@@ -1,0 +1,1 @@
+I wrote this code during my traineeship in the European Commission's Joint Research Centre. The data is not included in this repository. The code is also hosted by the GCRI project (together with data) and available here: http://conflictrisk.jrc.ec.europa.eu/ (under 'Downloads').
