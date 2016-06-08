@@ -2786,27 +2786,3 @@ GDP_CAPandDISPERNewVarsMale <- function(train, test = NULL, threshold, conflict.
   model.output[['predictions.list']] <- predictions.list  
   return(model.output)
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
