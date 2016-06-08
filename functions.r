@@ -1020,27 +1020,3 @@ saveAppliedModelsOutput <- function(applied.models, applied.to = 'most-recent') 
               row.names = FALSE)
   }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
